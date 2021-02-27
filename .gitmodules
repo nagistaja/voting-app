@@ -1,0 +1,12 @@
+[submodule "voting-app-voting-api"]
+	path = voting-app-voting-api
+	url = https://github.com/nagistaja/voting-app-voting-api
+[submodule "voting-app-frontend"]
+	path = voting-app-frontend
+	url = https://github.com/nagistaja/voting-app-frontend
+[submodule "voting-app-worker"]
+	path = voting-app-worker
+	url = https://github.com/nagistaja/voting-app-worker
+[submodule "voting-app-results-api"]
+	path = voting-app-results-api
+	url = https://github.com/nagistaja/voting-app-results-api
